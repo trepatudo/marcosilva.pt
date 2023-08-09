@@ -7,6 +7,18 @@ permalink: /edu
 #+END_EXPORT
 
 * Self Learn
+** Courses
+** Books
+*** https://www.amazon.com/gp/product/B00TKVLL26/ref=kinw_myk_ro_title
+*** https://www.amazon.com/gp/product/B00D17QRB0/ref=kinw_myk_ro_title
+*** Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way
+*** https://www.amazon.com/gp/product/B004XCRBMG/ref=kinw_myk_ro_title
+*** https://www.amazon.com/gp/product/B018T6ZVPK/ref=kinw_myk_ro_title
+*** https://www.amazon.com/gp/product/B00P5URD96/ref=kinw_myk_ro_title
+*** https://www.amazon.com/gp/product/B0881B227S/ref=kinw_myk_ro_title
+*** https://symfony.com/book (symfony 5 and 6)
+*** https://www.amazon.com/Development-Deployment-Multiplayer-Online-Games/dp/3903213055
+*** https://leanpub.com/b/development-and-deployment-of-multiplayer-online-games-part-arch
 
 * Academic
 ** FCT, University, Informatic Enginner [2008-2011]

@@ -35,8 +35,7 @@ Git, Emacs, Docker, LXC, Borg, Sentry
 - **stack**: Symfony 5 and 6, API Platform, Mercure, Kubernetes
 - **status**: Lead role without active development
 #+BEGIN_explanation
-  A social training platform, we bring together providers and consumers of (VAT-exempt) vocational education.
-  Technically, one of my most complex projects. It runs over 7 different instances of Symfony services.
+A social training platform dedicated to vocational education, where we bring together providers and consumers (VAT-exempt). Technically speaking, this was one of my most complex projects to date: it runs over 7 different instances of Symfony services.
 #+END_explanation
 
 **  Omerta v5 [2014-Present]
@@ -47,9 +46,7 @@ Git, Emacs, Docker, LXC, Borg, Sentry
 - **API**: Google SDK, Facebook, multiple payment providers, Socket.IO, etc...
 - **status**: Still active with over 10,000 users, maintenance on request only
 #+BEGIN_explanation
-Omerta is a MMORPG browser game where players role play as 1930s gangsters.
-The v5 was a major upgrade into new technologies (Redis caching, real-time improvements) and a complete new front-end to be more modular and fitting of the new real-time systems.
-This was a solo work that took over 1 year and half to complete.
+Omerta is a browser MMORPG where players role-play as 1930’s gangsters. It’s v5 introduced major technology upgrades (Redis caching, real-time improvements) and a completely new modular front-end equipped to deal with any new real-time systems. This was a one-man job that took me about 18 months to perfect.
 #+END_explanation
 
 **  SIP (Angola Government) [2021-2022]
@@ -59,9 +56,7 @@ This was a solo work that took over 1 year and half to complete.
 - **type**: consulting work
 - **status**: Consulting completed
 #+BEGIN_explanation
-SIP (Sistema de Informação e Planeamento) is a platform used by the Angola government to manage the country development (from budget to execution)
-As the main architect and lead developer I've implemented strict code rules and a CI/CD system in place.
-Was also responsible for the production deployment and the automated deploy systems.
+The Angolan SIP platform (Sistema de Informação e Planeamento) is a government tool conceived to track and help manage the country’s development (from budget to execution). As the main architect and lead developer I’ve personally implemented strict code rules and a CI/CD system. I was also directly responsible for the production deployment and the automated deploy systems.
 #+END_explanation
 
 **  VueSchool [2018-2019]
@@ -71,8 +66,7 @@ Was also responsible for the production deployment and the automated deploy syst
 - **API**: Stripe, Paypal, Laravel Cashier
 - **status**: Consulting completed
 #+BEGIN_explanation
-VueSchool is a learning platform for users that want to improve their skills in Vue.JS.
-I was hired to implement subscription system (payments, account management, etc) and improve performance of the platform.
+VueSchool is a learning platform for users wanting to improve their Vue.JS skills. I personally implemented the subscription system (payments, account management…) and improved the platform’s general performance.
 #+END_explanation
 
 **  HaugFitness [2018]
@@ -82,8 +76,8 @@ I was hired to implement subscription system (payments, account management, etc)
 - **API**: Stripe
 - **status**: Consulting completed
 #+BEGIN_explanation
-Personal trainer management system including private plans and general plans.
-Implemented Laravel Nova with subscription management system and implementing automated payments via Stripe.
+Personal trainer management system including private and general plans.
+My role was to implement both a Laravel Nova within the subscription management system and also the automated payments via Stripe.
 #+END_explanation
 
 **  Kratedrop.com [2017-2018]
@@ -93,7 +87,7 @@ Implemented Laravel Nova with subscription management system and implementing au
 - **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API, Laravel Echo
 - **status**: Ran for couple months over 5000+ users and *SOLD*
 #+BEGIN_explanation
-A [[https://pubg.fandom.com/wiki/Crates/PC][PUBG Crate]] site, where players could gamble into getting specific items for a low price, the platform used a provably-fair system to make sure the random algorithm was not tampered with.
+A [[https://pubg.fandom.com/wiki/Crates/PC][PUBG Crate]] site where players gambled for specific items. The platform used a provably-fair system that made sure the random algorithm was not tampered with.
 #+END_explanation
 
 **  Eazy.GG [2016-2018]
@@ -105,7 +99,7 @@ A [[https://pubg.fandom.com/wiki/Crates/PC][PUBG Crate]] site, where players cou
 #+BEGIN_explanation
 #+END_explanation
 
-**  MyKubo [2014-201]
+**  MyKubo [2014-2019]
 - **role**: Execution (Architect, Development, Infrastructure)
 - **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
 - **API**: PayPal, SAGE systems, Internal Portuguese VAT systems, Portuguese SAFT systems
@@ -120,16 +114,7 @@ A [[https://pubg.fandom.com/wiki/Crates/PC][PUBG Crate]] site, where players cou
 - **API**: Laravel Socialite, AWS
 - **status**: Consulting completed
 #+BEGIN_explanation
-HelperFirst is an online platform working to promote fair practices and advance foreign domestic workers' living and working conditions.
-Maintained the platform and took care of it's infrastructure.
-#+END_explanation
-
-**  CanYuDo Browser Extension [2013-2018]
-- **role**: Concept to Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
-- **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API
-- **status**: Co-founder then *SOLD*
-#+BEGIN_explanation
+An online platform dedicated to promoting equal and fair living and working conditions for foreign workers. I’ve taken care of the platform’s maintenance and infrastructure.
 #+END_explanation
 
 **  CanYuDo Browser Extension [2013-2018]
@@ -158,7 +143,7 @@ Maintained the platform and took care of it's infrastructure.
 
 **  suchbot [2013-2015]
 #+BEGIN_explanation
-A dogecoin IRC bot which would handle transfers, deposits and withdraws from dogecoin blockchain
+A dogecoin IRC bot handling transfers, deposits and withdraws from dogecoin blockchain.
 #+END_explanation
 
 **  Omerta v3 [2011-2014]
@@ -191,14 +176,6 @@ A dogecoin IRC bot which would handle transfers, deposits and withdraws from dog
 #+BEGIN_explanation
 #+END_explanation
 
-**  Counter-Strike Anti-Cheat [2009]
-- **role**: Improvements and mainteance
-- **stack**: C# GUI, C++ DLL injection
-- **API**: WIN32
-- **status**: Project merged with bigger company
-#+BEGIN_explanation
-#+END_explanation
-
 **  Counter-Strike Gather System [2007-2010]
 - **stack**: TCL, C++
 - **API**: IRC, Eggdrop, Sourcemod
@@ -208,11 +185,11 @@ A dogecoin IRC bot which would handle transfers, deposits and withdraws from dog
 
 * Libraries
 #+BEGIN_explanation
-There were multiple sub-systems that were also done by me and shared with other projects:
+A list of multiple sub-systems I’ve personally conceived and applied throughout multiple projects:
 #+END_explanation
 **  Laravel Redis Reliable
 #+BEGIN_explanation
-Same as RedisBroadcaster from illuminate/broadcasting but allows a customization to guarantee at least 1 subscriber has received the event, otherwise adds it into a queue and send it once first user connects
+Same as RedisBroadcaster from illuminate/broadcasting but allowing a customization that guarantee that at least 1 subscriber receives the event; otherwise adds it into a queue and sends it once first user connects
 #+END_explanation
 **  Provably Fair
 #+BEGIN_explanation
@@ -222,16 +199,16 @@ It is an essential feature for any reputable online gaming or gambling platform,
 
 **  Steam Inventory Bot
 #+BEGIN_explanation
-A Node.js bot that was able to manage Steam inventories for multiple accounts and seamlessly handle trades between users of the platform. The bot was designed to simplify the trading process and automate inventory management, providing users with a streamlined and efficient trading experience.
-It was mainly developed in Node.js using Steam API, and various trading libraries. I've also implemented advanced security measures to ensure that the system was fully secure and that multiple steam accounts were protected at all times.
-There were complex scenarios were we must handle generation of TOTP tokens and keep the different secrets for different accounts all in sync.
+A Node.js bot that was able to manage Steam inventories for multiple accounts and seamlessly handle trades between platform users. The bot was designed to simplify the trading process and automate inventory management, providing users with a streamlined and efficient trading experience.
+It was mainly developed in Node.js using Steam API, and various trading libraries. I’ve also implemented advanced security measures to ensure that the system was fully secure and that multiple steam accounts were protected at all times.
+There were complex scenarios were generation of TOTP tokens needed to be handled with; keeping the different secrets for different accounts, all in sync, was also a must.
 Overall, this system has been highly successful and has provided users with a fast and reliable way to trade their Steam inventory items.
 It has been also reused in other projects.
 #+END_explanation
 
 **  Match Crawler
 #+BEGIN_explanation
-A bot to crawl game scores and livescores from multiple pages (football, basketball and eSports)
+A bot to crawl game scores and live scores from multiple pages (football, basketball and eSports).
 #+END_explanation
 
 **  General Crawler
