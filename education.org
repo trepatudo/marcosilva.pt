@@ -9,6 +9,8 @@ permalink: /edu
 * Self Learn
 ** Courses
 ** Books
+*** mysql bible: https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287
+*** xmpp:
 *** https://www.amazon.com/gp/product/B00TKVLL26/ref=kinw_myk_ro_title
 *** https://www.amazon.com/gp/product/B00D17QRB0/ref=kinw_myk_ro_title
 *** Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way
