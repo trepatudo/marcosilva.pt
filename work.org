@@ -63,7 +63,7 @@ The Angolan SIP platform (Sistema de Informação e Planeamento) is a government
 - **type**: Consultant
 - **role**: Developer
 - **stack**: Laravel, Tailwind CSS, Laravel Nova
-- **API**: Stripe, Paypal, Laravel Cashier
+- **API**: Stripe, Paypal, Laravel Cashier, Newsletter systems
 - **status**: Consulting completed
 #+BEGIN_explanation
 VueSchool is a learning platform for users wanting to improve their Vue.JS skills. I personally implemented the subscription system (payments, account management…) and improved the platform’s general performance.
