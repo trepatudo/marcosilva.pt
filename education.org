@@ -8,19 +8,76 @@ permalink: /edu
 
 * Self Learn
 ** Courses
+*** SymfonyCasts
+**type**: platform
+**author**: Multiple (mostly knplabs courses)
+#+BEGIN_explanation
+Long time user and I often request the teams I'm leading to take a subscription as well
+#+END_explanation
+*** Laracasts
+**type**: platform
+**author**: Jeffrey Way
+#+BEGIN_explanation
+Signed up in 2018 and often took courses for new major releases
+#+END_explanation
+*** Getting yourself organized with Org-mode
+**type**: course at udemy
+**author**: Rainer König
+#+BEGIN_explanation
+I organize myself via GTD methodology and have tried multiple softwares in past, eventually, ending up always on emacs/orgmode.
+#+END_explanation
+*** Test Driven Laravel
+**type**: course
+**author**: testdrivenlaravel.com
+#+BEGIN_explanation
+I enjoyed learning TDD and decided to match it with early Laravel.
+In reality, never had the chance to apply it correctly in any project but did use the methodology for multiple hobby-projects without deadlines
+#+END_explanation
+*** PHP The Right Way
+**type**: documentation
+**author**: phptherightway.com
+#+BEGIN_explanation
+Deploying different frameworks to different infrastructures allows me to learn different ways of doing different things related to PHP.
+PHP The Right Way is a nice resource to make sure I am doing the right decisions.
+#+END_explanation
+*** The Vue.js Master Class
+**type**: course
+**author**: vueschool.io
+#+BEGIN_explanation
+While working at VueSchool.io, I had the possibility to read the course and learn from the author directly
+#+END_explanation
+
 ** Books
-*** mysql bible: https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287
-*** xmpp:
-*** https://www.amazon.com/gp/product/B00TKVLL26/ref=kinw_myk_ro_title
-*** https://www.amazon.com/gp/product/B00D17QRB0/ref=kinw_myk_ro_title
-*** Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way
-*** https://www.amazon.com/gp/product/B004XCRBMG/ref=kinw_myk_ro_title
-*** https://www.amazon.com/gp/product/B018T6ZVPK/ref=kinw_myk_ro_title
-*** https://www.amazon.com/gp/product/B00P5URD96/ref=kinw_myk_ro_title
-*** https://www.amazon.com/gp/product/B0881B227S/ref=kinw_myk_ro_title
-*** https://symfony.com/book (symfony 5 and 6)
-*** https://www.amazon.com/Development-Deployment-Multiplayer-Online-Games/dp/3903213055
-*** https://leanpub.com/b/development-and-deployment-of-multiplayer-online-games-part-arch
+- Mastering Swoole PHP: Build High Performance Concurrent System with Async and Coroutines
+  **author** Bruce Dou
+- Symfony 5: The Fast Track
+  **author** Fabien Potencier
+- Symfony 6: The Fast Track
+  **author** Fabien Potencier
+- High Performance MySQL: Optimization, Backups, and Replication
+  **author**  Baron Schwartz, Peter Zaitsev, Vadim Tkachenko
+- Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way
+  **author** Bas Meijer, Lorin Hochstein, René Moser
+- Real-World Solutions for Developing High-Quality PHP Frameworks and Applications
+  **author** Sebastian Bergmann, Stefan Priebsch
+- Modern PHP: New Features and Good Practices
+  **author** Josh Lockhart
+- Professional XMPP Programming with JavaScript and jQuery
+  **author** Jack Moffitt
+- Free-to-Play: Making Money From Games You Give Away
+  **author** Will Luton
+- Practical Vim: Edit Text at the Speed of Thought
+  **author**: Drew Neil
+- Game Programming Patterns
+  **author**: Robert Nystrom
+- Development and Deployment of Multiplayer Online Games, Vol. I: GDD, Authoritative Servers, Communications
+  **author**: “No Bugs” Hare
+- Development and Deployment of Multiplayer Online Games, Vol. II: DIY, (Re)Actors, Client Arch, Unity/UE4/Lumberyard
+  **author**: “No Bugs” Hare
+- Development and Deployment of Multiplayer Online Games, Vol. Vol. III: Server Arch, Fault Tolerance, Pre-Coding
+  **author**: “No Bugs” Hare
+- Getting Things Done: The Art of Stress-free Productivity
+  **author** David Allen
 
 * Academic
 ** FCT, University, Informatic Enginner [2008-2011]
