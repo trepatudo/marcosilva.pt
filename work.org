@@ -13,15 +13,16 @@ Learning first and pushing that knowledge to its limits later is an accurate way
 
 * Competences
 **  Langs
-- **expert** PHP, JavaScript
-- **advanced** Bash scripting
-- **forgotten** Perl, TCL, Java, Python
+- **expert**: PHP, JavaScript
+- **advanced**: Bash scripting
+- **forgotten**: Perl, TCL, Java, Python
 (forgotten means I've developed/maintained full projects on it but recently didn't use it)
 **  Frameworks
-- **php** Laravel 3 to 10, Symfony 2 to 6, (Open)Swoole
-- **js** Vue 2 and 3(expert), React, Knockout(expert)
-- **other** Bootstrap, SASS/LESS, Tailwind
-- **extra** Laravel Nova, Laravel Cashier, Mercure, Laravel Octane
+- **php**: Laravel 3 to 10, Symfony 2 to 6, (Open)Swoole
+- **js**: Vue 2 and 3(expert), React, Knockout(expert)
+- **other**: Bootstrap, SASS/LESS, Tailwind
+- **extra**: Laravel Nova, Laravel Cashier, Mercure, Laravel Octane
+- **php.extra**: PHPCS(fixer), PHPStan, psalm, phpmd
 **  Sysadmin
 Kubernetes management, RHEL(CentOS/AlmaLinux), KVM/LXC, Ansible, MySQL(Percona) Administration, Web stack (nginx, redis, haproxy, etc...), Graylog/ELK, MongoDB
 **  Tools
