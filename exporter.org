@@ -1,7 +1,7 @@
 #+title: CV
 
-This document is automatically generated from contents of my homepage: marcosilva.pt
-Feel free to reach me out for any questions at dev@marcosilva.pt or visit my homepage for more detailed CV
+- This document is automatically generated from contents of my homepage: marcosilva.pt
+- Feel free to reach me out for any questions at dev@marcosilva.pt or visit my homepage for more detailed CV
 
 #+INCLUDE: "./index.org"
 * Education

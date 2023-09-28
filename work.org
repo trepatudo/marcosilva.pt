@@ -89,6 +89,7 @@ My role was to implement both a Laravel Nova within the subscription management 
 - **status**: Ran for couple months over 5000+ users and *SOLD*
 #+BEGIN_explanation
 A [[https://pubg.fandom.com/wiki/Crates/PC][PUBG Crate]] site where players gambled for specific items. The platform used a provably-fair system that made sure the random algorithm was not tampered with.
+Similar to my previous Eazy.GG project, which was sold. So I decided to repeat the concept to a different game.
 #+END_explanation
 
 **  Eazy.GG [2016-2018]
@@ -98,17 +99,21 @@ A [[https://pubg.fandom.com/wiki/Crates/PC][PUBG Crate]] site where players gamb
 - **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API, Laravel Echo
 - **status**: Over 60,000+ users and *SOLD*
 #+BEGIN_explanation
+Gambling platform with CS:GO skins and multiple cryptocoins.
+Completely created from zero, it allowed me to explore a new architecture and to deal with safe real-time systems.
 #+END_explanation
 
 **  MyKubo [2014-2019]
 - **role**: Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
+- **stack**: Laravel 5.5 (PHP7)
 - **API**: PayPal, SAGE systems, Internal Portuguese VAT systems, Portuguese SAFT systems
 - **status**: Ran for couple months over 5000+ users and *SOLD*
 #+BEGIN_explanation
+Social media platform for clothing.
+Buy, search, follow trends all in one platform where you could buy directly from the brands and earn a respective affiliate fee if sold via user's profile
 #+END_explanation
 
-**  HelperFirst [2013-2018]
+**  HelperFirst [2018-2019]
 - **type**: Consultant
 - **role**: Maintainer, Infrastructure
 - **stack**: Laravel, AWS
@@ -118,28 +123,32 @@ A [[https://pubg.fandom.com/wiki/Crates/PC][PUBG Crate]] site where players gamb
 An online platform dedicated to promoting equal and fair living and working conditions for foreign workers. I’ve taken care of the platform’s maintenance and infrastructure.
 #+END_explanation
 
-**  CanYuDo Browser Extension [2013-2018]
-- **role**: Concept to Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
-- **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API
-- **status**: Co-founder then *SOLD*
+**  CanYuDo Browser Extension [2017]
+- **role**: Consulting
+- **stack**: Javascript, XUL
+- **API**: Chrome, Firefox
+- **status**: Delivered
 #+BEGIN_explanation
+A full homepage replacement for browsers which would connect to the previous CanYuDo systems allowing users to manage their tasks lists
 #+END_explanation
 
-**  CanYuDo ICO [2013-2018]
-- **role**: Concept to Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
-- **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API
-- **status**: Co-founder then *SOLD*
+**  CanYuDo ICO [2018-2020]
+- **role**: Consultant
+- **stack**: Solidity, Laravel 4
+- **API**: Ethereum RPC
+- **status**: Delivered
 #+BEGIN_explanation
+A simple ERC20 delivery and the respective implementation of KYC into a major portal
 #+END_explanation
 
 **  CanYuDo [2013-2018]
 - **role**: Concept to Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
+- **stack**: Laravel 4
 - **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API
 - **status**: Co-founder then *SOLD*
 #+BEGIN_explanation
+A task list platform with the objective to make tasks fun.
+It expanded into a marketplace for small tasks.
 #+END_explanation
 
 **  suchbot [2013-2015]
@@ -149,24 +158,25 @@ A dogecoin IRC bot handling transfers, deposits and withdraws from dogecoin bloc
 
 **  Omerta v3 [2011-2014]
 - **role**: Concept to Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
-- **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API
-- **status**: Ran for couple months over 5000+ users and *SOLD*
+- **stack**: PHP5, jQuery, Custom-made framework
+- **status**: Finished
 #+BEGIN_explanation
+A big mafia game that was quite outdated required a major upgrade of the front-end, migrating from iframes to AJAX requests.
 #+END_explanation
 
 **  Adductio Press [2011-2012]
-- **role**: Concept to Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
+- **role**: Consultant
+- **stack**: Laravel 2
 - **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API
-- **status**: Ran for couple months over 5000+ users and *SOLD*
+- **status**: Delivered
 
 **  ejectTube [2011]
 - **role**: Concept to Execution (Architect, Development, Infrastructure)
-- **stack**: Laravel 5.5 (PHP7), Laravel Echo, Vue.JS 2, SASS
-- **API**: Bitcoin RPC, Ethereum RPC, Steam API, Stripe API
-- **status**: Ran for couple months over 5000+ users and *SOLD*
+- **stack**: Laravel 1 (or 2)
+- **API**: ffmpeg, youtube-dl
+- **status**: Discontinued after C&D from Google
 #+BEGIN_explanation
+A simple website that would allow users to download youtube videos in several formats
 #+END_explanation
 
 **  Counter-Strike Anti-Cheat [2009]
